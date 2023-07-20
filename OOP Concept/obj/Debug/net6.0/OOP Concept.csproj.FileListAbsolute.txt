@@ -1,0 +1,15 @@
+D:\Dot Net Technology\C #\OOP Concept\bin\Debug\net6.0\OOP Concept.exe
+D:\Dot Net Technology\C #\OOP Concept\bin\Debug\net6.0\OOP Concept.deps.json
+D:\Dot Net Technology\C #\OOP Concept\bin\Debug\net6.0\OOP Concept.runtimeconfig.json
+D:\Dot Net Technology\C #\OOP Concept\bin\Debug\net6.0\OOP Concept.dll
+D:\Dot Net Technology\C #\OOP Concept\bin\Debug\net6.0\OOP Concept.pdb
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.csproj.AssemblyReference.cache
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.AssemblyInfoInputs.cache
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.AssemblyInfo.cs
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.csproj.CoreCompileInputs.cache
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.dll
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\refint\OOP Concept.dll
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.pdb
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\OOP Concept.genruntimeconfig.cache
+D:\Dot Net Technology\C #\OOP Concept\obj\Debug\net6.0\ref\OOP Concept.dll
