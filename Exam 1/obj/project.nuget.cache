@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAgsMd6z4YR8XieY9myTmFqWvmd8IovbEKSVTYxcX5eMy0knUs4k5Y+k/k76SLj5R6okpGNfULXLCVPrSVQurA==",
+  "success": true,
+  "projectFilePath": "D:\\Dot Net Technology\\C #\\Mahendra_054\\Mahendra_054.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahendra\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

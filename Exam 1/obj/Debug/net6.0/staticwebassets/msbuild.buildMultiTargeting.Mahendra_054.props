@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mahendra_054.props" />
+</Project>
